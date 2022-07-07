@@ -17,28 +17,28 @@ export class CardRegisterComponent implements OnInit {
 card: cardmodel= new cardmodel();
 datacard: cardmodel[]= [
   {
-    cardtitul :"TITULO 1",
+    cardtitul :"Sol",
     descri: "descripcion",
     boton: "1",
-    il: "https://images8.alphacoders.com/104/1042296.jpg"
+    il: "https://www.lifeder.com/wp-content/uploads/2019/11/el-sol-NASA-estrellas-min.jpg"
   },
   {
-    cardtitul :"TITULO2",
+    cardtitul :"Luna",
     descri: "descripcion2",
     boton: "2",
-    il: "https://images6.alphacoders.com/470/470300.jpg"
+    il: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Full_Moon_Luc_Viatour.jpg/280px-Full_Moon_Luc_Viatour.jpg"
   },
   {
-    cardtitul :"TITULO3",
+    cardtitul :"Planeta",
     descri: "descripcion3",
     boton: "3",
-    il: "https://images5.alphacoders.com/518/518518.jpg"
+    il: "https://cienciaybiologia.com/wp-content/uploads/2014/03/planeta-tierra.jpg"
   },
   {
-    cardtitul :"TITULO4",
+    cardtitul :"Estrellas",
     descri: "descripcion4",
     boton: "4",
-    il: "https://images2.alphacoders.com/902/902988.jpg"
+    il: "https://upload.wikimedia.org/wikipedia/commons/6/62/Starsinthesky.jpg"
   }
 ]
 
